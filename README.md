@@ -47,9 +47,9 @@ Game experiments and frontend interaction design.
 ## Connect
 
 - GitHub: [@adnan911](https://github.com/adnan911)
-- Email: add your email here
-- Portfolio / Website: add link here
-- Telegram / X / LinkedIn: add links here
+- Email: adnantaher911@gmail.com
+- Portfolio / Website: coming soon
+- X : https://x.com/darkd_zen
 
 ---
 
