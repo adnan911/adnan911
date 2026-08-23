@@ -2,7 +2,7 @@
 
 Building **onchain mini-apps, games, and tools** with a focus on **mobile-first UX** and **wallet-connected experiences**.
 
-- 🌐 Focus: **Solana / Base**
+- 🌐 Focus: **Arc/ Solana / Base**
 - 🧱 Stack: **React, TypeScript, Vite**
 - 🎮 Interests: **Onchain games, mini apps, NFT utilities**
 - 🚀 Building in public through experiments and MVPs
